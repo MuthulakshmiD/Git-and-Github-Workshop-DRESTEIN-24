@@ -100,8 +100,3 @@ What command pushes your local main branch to the remote repository?
 ```
 git push origin main
 ```
-
-# file
-```
-"C:\Users\HP\OneDrive\Documents\folder\certificates\documents\RECORD\git and github.pdf"
-```
